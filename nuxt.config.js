@@ -13,6 +13,9 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  modules: [
+    'semantic-ui-vue/nuxt',
+  ],
   /*
   ** Customize the progress bar color
   */

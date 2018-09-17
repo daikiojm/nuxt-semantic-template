@@ -2,6 +2,8 @@
 
 > Nuxt.js project
 
+![run image](https://raw.githubusercontent.com/daikiojm/nuxt-semantic-template/master/run-image.png "run image")
+
 ## Build Setup
 
 ``` bash
