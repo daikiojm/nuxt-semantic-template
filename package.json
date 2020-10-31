@@ -13,17 +13,17 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
-    "semantic-ui-css": "^2.4.0",
-    "semantic-ui-vue": "^0.4.0"
+    "nuxt": "^2.14.7",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-vue": "^0.11.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.0.0",
-    "node-sass": "^4.9.3",
-    "sass-loader": "^7.1.0"
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^7.1.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.0.4"
   }
 }
